@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <h1>Hello world!cqweqwqw</h1>
-      <Counter />
+      <h1>I’m not a robot</h1>
+      <Counter /><a href="https://start.solidjs.com" target="_blank">
       <p>
         Visit{" "}
         <a href="https://start.solidjs.com" target="_blank">
