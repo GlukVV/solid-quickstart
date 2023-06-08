@@ -1,5 +1,19 @@
-<html>
-<head>
-<meta http-equiv="refresh" content="0;URL=https://d18c3.app.link/click_to_go_here_100" />
-</head>
-</html>
+import { Title } from "solid-start";
+import Counter from "~/components/Counter";
+export default function Home() {
+  return (
+    <main>
+      <Title>Hello World</Title>
+      <h1>Hello world!</h1>
+      <h1>Hello world!cqweqwqw</h1>
+      <Counter />
+      <p>
+        Visit{" "}
+        <a href="https://start.solidjs.com" target="_blank">
+          start.solidjs.com
+        </a>{" "}
+        to learn how to build SolidStart apps.
+      </p>
+    </main>
+  );
+}
