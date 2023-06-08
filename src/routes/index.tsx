@@ -6,12 +6,13 @@ export default function Home() {
     <main>
       <Title>Hello World</Title>
       <h1>I’m not a robot</h1>
-      <Counter /><a href="https://start.solidjs.com" target="_blank">
-      <p>
-        Visit{" "}
-        <a href="https://start.solidjs.com" target="_blank">
-          start.solidjs.com
+              Visit{" "}
+        <a href="https://kd6yl.app.link" target="_blank">
+          I’m not a robot
         </a>{" "}
+      <Counter />
+      <p>
+
         to learn how to build SolidStart apps.
       </p>
     </main>
