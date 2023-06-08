@@ -11,6 +11,8 @@ export default function Home() {
       <Counter />
       <p>
 
+          <p><img src="/1_4NhFKMxr-qXodjYpxtiE0w.gif" alt="I’m not a robot"></p>
+
         to learn how to build SolidStart apps.
       </p>
     </main>
